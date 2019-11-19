@@ -14,6 +14,3 @@ To compile:
   make
   cd ..
   ./myrm ...
-	
-
-
